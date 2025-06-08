@@ -2,14 +2,14 @@
 
 This is a simple Java project that models a basic library system using object-oriented programming principles. The system includes `Author` and `Book` classes that demonstrate class interaction, constructors, getters, and the use of the `toString()` method.
 
-## 📚 Features
+## Features
 
 - Models a book with an associated author
 - Demonstrates class composition (Book contains an Author)
 - Uses constructors and getter methods
 - Overrides `toString()` to format object output
 
-## 🧱 Classes
+## Classes
 
 ### `Author.java`
 Represents an author with:
@@ -28,7 +28,7 @@ The entry point of the program:
 - Creates an `Author` and `Book` object
 - Prints the book's information, including the author's details
 
-## ▶️ How to Run
+## How to Run
 
 1. **Compile** the Java files:
    ```bash
