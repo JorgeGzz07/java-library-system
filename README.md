@@ -33,3 +33,10 @@ The entry point of the program:
 1. **Compile** the Java files:
    ```bash
    javac Author.java Book.java Main.java
+2. Run the program:
+java Main
+
+Example Output
+
+Book: The Bad Beginning, Price: $14.99
+Author: Lemony Snicket, Email: lemony.snicket@example.com, Nationality: American
